@@ -44,7 +44,20 @@ In the initial phase of data preperation, data were downloaded and performed the
 4. Change% is 11.05%.
 
 ### Total Active Users (TAU)  
+1. Number of active users dropped after 5G.
+2. Highest number of users was in February and the lowest in June.
+3. Mumbai and Raipur is ranking first and last in the number of active users.
+4. Change% is -8.28%.
 
+### Total Unsubscribed Users (TUU)  
+1. A huge number of users switched their network. This is comparitively greater tha before 5G.
+2. January and August has the lowest and highest deactivation respectively.
+3. Mumbai and Raipur  is ranking first and last in the number of deactivated users.
+4. Change% is 23.50%.
+
+### Market Share and Plans  
+Atliqo company's market value is comparitively low with its competators.  
+Revenue earned from internet plans are high after 5G. Top plan in demand is p1. Among the three plans introduced after 5G p13 performance is still low.
 
 
 
