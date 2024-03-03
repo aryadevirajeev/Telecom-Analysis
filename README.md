@@ -57,7 +57,13 @@ In the initial phase of data preperation, data were downloaded and performed the
 
 ### Market Share and Plans  
 Atliqo company's market value is comparitively low with its competators.  
-Revenue earned from internet plans are high after 5G. Top plan in demand is p1. Among the three plans introduced after 5G p13 performance is still low.
+Revenue earned from internet plans are high after 5G. Top plan in demand is p1. Among the three plans introduced after 5G p13 performance is still low.  
+
+## Recommendations 
+- Focus on the quality of service and network coverage of the 5G
+- Try to assess the customers by having online surveys and rating
+- According to usage provide customers with personalised plans through in-app services
+- A quality check on the customer service is recommended
 
 
 
