@@ -69,8 +69,8 @@ Revenue earned from internet plans are high after 5G. Top plan in demand is p1. 
 - Try to assess the customers by having online surveys and rating
 - According to usage provide customers with personalised plans through in-app services
 - A quality check on the customer service is recommended
-- Compare the 5G plans of competators
-- Reduce the cost of the plans after comapring with competators
+- Compare the 5G plans of competitors
+- Reduce the cost of the plans after comapring with competitors
 
 #### Abbreavtions Used  
 **TR**- *Total Revenue*,
