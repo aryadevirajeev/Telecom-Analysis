@@ -1,5 +1,10 @@
 # Telecom Analysis 
-## Table of Contents  
+## Table of Contents 
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Results](#results)
+- [Recommendations](#recommendations)
+  
 
 ## Project Overview
 AtliQo is one of the leading telecom providers in India and launched its 5G plans in May 2022 along with other telecom providers.  
@@ -30,7 +35,7 @@ In the initial phase of data preperation, data were downloaded and performed the
   - What is the market_share% and total_market_value of the company when comparing with its competators?
   - What is the condition of internet plans of the company?
   - What is the situation of all the above before 5G and after 5G?
-## Results/ Findings  
+## Results  
 ### Total Revenue (TR)  
 1. Total Revenue of the company went down after 5G when compared to before 5G.
 2. Highest revenue generated month is February(before 5G) and lowest is June(after 5G).
@@ -64,9 +69,18 @@ Revenue earned from internet plans are high after 5G. Top plan in demand is p1. 
 - Try to assess the customers by having online surveys and rating
 - According to usage provide customers with personalised plans through in-app services
 - A quality check on the customer service is recommended
+- Compare the 5G plans of competators
+- Reduce the cost of the plans after comapring with competators
 
-
-
+#### Abbreavtions Used  
+**TR**- *Total Revenue*,
+**MA**- *Monthly Average*,
+**ARPU**- *Average Revenue Per User*,
+**TAU**- *Total Active Users*,
+**TUU**- *Total Unsubscribed Users*,
+**AU**- *Active Users*,
+**TPR**- *Total Plan Revenue*,
+**Change%** - *Change before and after 5G in percentage*
 
   
 
