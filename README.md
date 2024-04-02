@@ -22,9 +22,9 @@ There are 6 .csv files:
 **MySQL** Analysing data 
 **Power BI** Creating reports  
 ## Data Cleaning and Preperation  
-In the initial phase of data preperation, data were downloaded and performed the followung tasks:  
+In the initial phase of data preperation, data were downloaded and performed the following tasks:  
   
-  1.Data loading and inspection
+  1.Data loading and inspection  
   2.Checking for missing values  
   3.Checking for duplicates  
   4.Format consistency   
