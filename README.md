@@ -19,7 +19,7 @@ There are 6 .csv files:
 **fact_plan_revenue**  This table details the internet plan and revenue with date and city code  
 ## Tools Used  
 **Excel** Checking data quality and redundancy  
-**MySQL** Analysing data 
+**MySQL** Analysing data  
 **Power BI** Creating reports  
 ## Data Cleaning and Preperation  
 In the initial phase of data preperation, data were downloaded and performed the following tasks:  
