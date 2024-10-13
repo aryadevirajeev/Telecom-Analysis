@@ -35,6 +35,25 @@ In the initial phase of data preperation, data were downloaded and performed the
   - What is the market_share% and total_market_value of the company when comparing with its competators?
   - What is the condition of internet plans of the company?
   - What is the situation of all the above before 5G and after 5G?
+
+**Key Metrics** 
+![keymetrics](https://github.com/user-attachments/assets/7e7a40f4-01c4-4979-b5ad-e8a7ef9dde63)  
+
+**ARPU** 
+![ARPU_F-2](https://github.com/user-attachments/assets/b68f5f31-8310-4a13-85eb-f59881cb0e4b)  
+
+**Active Users**  
+![ActiveUsers_F-3](https://github.com/user-attachments/assets/39eabede-d6bb-4f09-b6c8-3188dfcf9ff8)  
+
+**Unsubscribed Users**  
+![UnsubscribedUsers_F-4](https://github.com/user-attachments/assets/cae9b7ff-e5c0-44d9-bad6-d7187f6bfd5c)  
+
+**Market Share**  
+![marketshare-5](https://github.com/user-attachments/assets/19db7b93-4a52-4b66-be00-bca7450bbb28)  
+
+**Plans**  
+![Plans-6](https://github.com/user-attachments/assets/60278d56-d4f2-46d1-8e23-298a7cf8575e)
+
 ## Results  
 ### Total Revenue (TR)  
 1. Total Revenue of the company went down after 5G when compared to before 5G.
